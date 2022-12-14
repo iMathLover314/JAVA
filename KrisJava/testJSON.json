@@ -1,0 +1,18 @@
+[
+  {
+    "namePosition": "Administrator",
+    "idCard": 1001,
+    "salary": 20000,
+    "name": "Oleg",
+    "surname": "Buendok",
+    "age": 19
+  },
+  {
+    "namePosition": "Cleaner",
+    "idCard": 1002,
+    "salary": 15000,
+    "name": "Aleks",
+    "surname": "Abalduy",
+    "age": 25
+  }
+]

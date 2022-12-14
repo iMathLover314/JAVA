@@ -1,0 +1,2 @@
+1001,Administrator,19,Oleg,Buendok,20000
+1002,Cleaner,25,Aleks,Abalduy,15000

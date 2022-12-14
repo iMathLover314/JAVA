@@ -1,0 +1,18 @@
+<ArrayList>
+    <item>
+        <namePosition>Administrator</namePosition>
+        <idCard>1001</idCard>
+        <salary>20000</salary>
+        <name>Oleg</name>
+        <surname>Buendok</surname>
+        <age>19</age>
+    </item>
+    <item>
+        <namePosition>Cleaner</namePosition>
+        <idCard>1002</idCard>
+        <salary>15000</salary>
+        <name>Aleks</name>
+        <surname>Abalduy</surname>
+        <age>25</age>
+    </item>
+</ArrayList>

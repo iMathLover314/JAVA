@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab1.Lab1Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-10T21:45:41" hostname="DESKTOP-PHDPGCK" time="0.036">
+  <properties/>
+  <testcase name="equalObjectsTestProvider[0](Employee{namePosition='Administrator', idCard=1001, salary=20000, name='Oleg', surname='Buendok', age=19}, Employee{namePosition='Cleaner', idCard=10002, salary=15000, name='Bogdan', surname='Mazurok', age=25}, false)" classname="lab1.Lab1Test" time="0.019"/>
+  <testcase name="equalObjectsTestProvider[1](Employee{namePosition='Administrator', idCard=1001, salary=20000, name='Oleg', surname='Buendok', age=19}, Employee{namePosition='Administrator', idCard=1001, salary=20000, name='Oleg', surname='Buendok', age=19}, true)" classname="lab1.Lab1Test" time="0.0"/>
+  <testcase name="equalObjectsTestProvider[2](Client{phoneNumber='0993254321', idOrder=1, name='Matvei', surname='Mulark', age=30}, Client{phoneNumber='0953377166', idOrder=2, name='Oleg', surname='Mazurok', age=25}, false)" classname="lab1.Lab1Test" time="0.008"/>
+  <testcase name="equalObjectsTestProvider[3](Client{phoneNumber='0993254321', idOrder=1, name='Matvei', surname='Mulark', age=30}, Client{phoneNumber='0993254321', idOrder=1, name='Matvei', surname='Mulark', age=30}, true)" classname="lab1.Lab1Test" time="0.0"/>
+  <testcase name="hashEqualPersonsProvider[0](Employee{namePosition='Administrator', idCard=1001, salary=20000, name='Oleg', surname='Buendok', age=19}, Employee{namePosition='Administrator', idCard=1001, salary=20000, name='Oleg', surname='Buendok', age=19})" classname="lab1.Lab1Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
